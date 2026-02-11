@@ -1,9 +1,16 @@
 # 3-2-Exercises
 
 Chickens01
-//accumulation of totalEggs, used +=, added lables for outputs
-        //increments and decrements, used shorthand operators
+
+* Accumulation of totalEggs, 
+* Used +=
+* Added lables for outputs
+* Increments and decrements
+* Used shorthand operators
 
 Chickens02
-//when to use different data types and how java does math equations. how to use the correct types
-        //how to modify equations to be smaller
+
+* Learned when to use different data types
+* How java does math equations
+* How to use the correct types
+* How to modify equations to be smaller
